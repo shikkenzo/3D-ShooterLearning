@@ -1,10 +1,10 @@
 # 3D-FPSLearning 
 Class project made for the purpose of learning about the basics of 3D and FPS games using Unity.
 
-# Video
+## Video
 
 
-# Features
+## Features
 - Basic FPS movement and camera
 - Shooting and reloading
 - Taking damage to Health and Sheild points
@@ -24,7 +24,7 @@ Class project made for the purpose of learning about the basics of 3D and FPS ga
 - Bullet decals
 - Simple gun and enemy drone animations
 
-# What I Learned
+## What I Learned
 - Using Unity's **3D Character Controller**
 - Using Unity's **NavMesh** component for enemy pathfinding
 - Using Unity's **Terrain** tool
