@@ -1,4 +1,4 @@
-# 3D-FPSLearning 
+# 3D-FPS-Learning 
 Class project made for the purpose of learning about the basics of 3D and FPS games using Unity.
 
 ## Video
