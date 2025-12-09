@@ -1,6 +1,9 @@
 # 3D-FPSLearning 
 Class project made for the purpose of learning about the basics of 3D and FPS games using Unity.
 
+# Video
+
+
 # Features
 - Basic FPS movement and camera
 - Shooting and reloading
@@ -29,4 +32,4 @@ Class project made for the purpose of learning about the basics of 3D and FPS ga
 - Implement basic FPS camera controller
 - And much more
 
-# Video
+
