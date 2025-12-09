@@ -2,7 +2,7 @@
 Class project made for the purpose of learning about the basics of 3D and FPS games using Unity.
 
 ## Video
-
+https://youtu.be/v9th81CtNWc
 
 ## Features
 - Basic FPS movement and camera
